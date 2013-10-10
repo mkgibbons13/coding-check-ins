@@ -1,0 +1,23 @@
+h1,h2 {
+Font-Size: 1.3em;
+Font-Family: 'Kotta One', serif;
+color: pink;
+}
+
+p { 
+Font-family:"Courier New", "Courier", "monospace";
+Font-style: Italic;
+color: purple;
+} 
+
+h3,h4,h5 { 
+Font-size: 1.3em; 
+Font-style: light;
+Font-Family: 'Kotta One', serif;
+color: pink;
+}
+
+body { 
+background-color: gray 
+}
+
