@@ -1,33 +1,180 @@
+
+h1.name {
+  font-family: 'Euphoria Script', cursive;
+  font-size: 250%;
+  color: white;
+
+
+}
+
+body {
+    background: url(finalbackground.jpg) no-repeat center center fixed;
+    background-size: cover; 
+
+}
+
+.water {
+    margin-top: 15%
+}
+
+.Mary {
+    font-size: 400%;
+    font-weight: bold;
+    color: white;
+   font-family: 'Euphoria Script', cursive;
+
+}
+
+.Kate {
+    font-size: 400%;
+    font-weight: bold;
+    color: white;
+     font-family: 'Euphoria Script', cursive;
+}
+
+.Gibbons {
+    font-size: 400%;
+    font-weight: bold;
+    color: white;
+     font-family: 'Euphoria Script', cursive;
+}
+
+
 #nav {
     list-style: none;
     font-weight: bold;
     margin-bottom: 10px;
     width: 100%;
     text-align: center;
+    font-family: 'Euphoria Script', cursive;
+    font-size: 150%;
+    opacity: .7;
+        background-color: #000000;
+        padding-right: 300px;
+
+
+
 }
 
 #nav ul {
      list-style-type: none;
     margin: 0px;
     padding: 0;
+    font-family: 'Euphoria Script', cursive;
+    font-size: 100%;
+
 }
 
 #nav li {
     margin: 0px;
-    display:
+    font-family: 'Euphoria Script', cursive;
+    font-size: 100%;
+
 }
 
 #nav li a {
-    padding: 10px;
+    padding: 15px;
     text-decoration: none;
     font-weight: bold;
     color: #FFFFFF;
     background-color: #000000;
     float: left;
+    font-family: 'Euphoria Script', cursive;
+    font-size: 100%;
+
 }
 
 #nav li a:hover {
     color: #ffffff;
-    background-color: pink;
+    background-color: #5dc8cd;
+    font-family: 'Euphoria Script', cursive;
+    font-size: 100%;
+
 }
-</style>
+
+
+.name {
+font-size: 300%;
+color: black;
+Color: #5dc8cd;
+Margin-left: 20%;
+Margin-right: 20%; 
+margin-top: 15%;
+}
+#Intro {
+font-size: 75%;
+Margin-left: 30%;
+Margin-right: 30%;
+}
+
+p { 
+font-size: 130%;
+font-style: oblique;
+color: gray;
+
+
+}
+
+h2, h3, h6 {
+Margin-top: 2%;
+font-size: 350%;
+font-weight: bolder;
+Color: #5dc8cd;
+font-family: 'Euphoria Script', cursive;
+
+}
+
+h4, h5, h7 {
+Font-size: 185%;
+font-weight: bold;
+font-style: Italic;
+Color: #5dc8cd;
+font-family: 'Euphoria Script', cursive;
+
+}
+
+h8 {
+    font-size: 200%; 
+    font-family: 'Euphoria Script', cursive;
+
+}
+
+body {
+Margin-right: 15%;
+box-sizing: border-box;
+}
+
+
+#resume {
+    background: white;
+    opacity: .7;
+    margin-left: 3%;
+}
+
+#about {
+background: white;
+opacity: .7;
+margin-left: 3%;
+}
+
+h9 {
+    color: #5dc8cd;
+    font-size: 350%;
+    font-family:'Euphoria Script', cursive;
+    margin-left: 39%;
+
+}
+
+#aboutme {
+     font-size: 200%;
+    font-family: 'Euphoria Script', cursive;
+
+}
+
+#photos {
+    margin-left: 5%;
+}
+
+#me {
+    margin-left: 30%;
+}
