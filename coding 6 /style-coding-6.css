@@ -1,0 +1,42 @@
+h1 {
+font-size: 300%;
+color: black;
+Color: #DDA0DD;
+Margin-left: 18%;
+Margin-right: 18%; 
+font-family: 'Euphoria Script', cursive;
+}
+#Intro {
+font-size: 75%;
+Margin-left: 30%;
+Margin-right: 30%;
+}
+
+p { 
+font-size: 130%;
+font-style: italic;
+color: gray;
+}
+
+h2, h3, h6 {
+Margin-top: 2%;
+font-size: 250%;
+font-weight: bold;
+Color: #DDA0DD;
+font-family: 'Euphoria Script', cursive;
+
+}
+
+h4, h5, h7 {
+Font-size: 110%;
+font-weight: bold;
+font-style: Italic;
+Color: #DDA0DD;
+font-family: 'Euphoria Script', cursive;
+}
+
+body {
+Margin-left: 20%;
+Margin-right: 15%;
+box-sizing: border-box;
+}
