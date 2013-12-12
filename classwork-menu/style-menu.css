@@ -1,0 +1,60 @@
+h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11 {
+Color: black;
+font-size:200%
+}
+
+body {
+background: #DCDCDC;
+}
+
+
+
+p {
+font-weight: bold;
+font-style: italic;
+color: black;
+}
+
+body {
+font-family: "Helvetica", "sans-serif", "Arial";
+font-size: 100%; 
+margin-left: 5%;
+}
+
+
+h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13,h14,h15,h16,h17,h18,h19,h20,h21,h22 {
+font-size: 350%;
+ font-family:'Euphoria Script', cursive;
+
+}
+
+li {
+font-weight: bold; 
+font-style:italic;
+color: #F13C76;
+ font-family:'Euphoria Script', cursive;
+ font-size: 200%
+
+}
+
+#container {
+Margin: 0,0,0,0
+}
+
+
+a {
+Color: #68006C;
+text-decoration: none;
+}
+
+A: link {
+	color: #A101A6;
+}
+
+A:hover {
+	color: #F13C76;
+	}
+	
+a: active {
+	color: #320571; 
+	}
